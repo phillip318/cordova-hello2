@@ -1,0 +1,18 @@
+[
+  {
+    "file": "css/index.css",
+    "hash": "e46d9a1c456a9c913ca10f3c16d50000"
+  },
+  {
+    "file": "img/logo.png",
+    "hash": "7e34c95ac701f8cd9f793586b9df2156"
+  },
+  {
+    "file": "index.html",
+    "hash": "2547edfb251f3ee8cc80c1bfd35b462b"
+  },
+  {
+    "file": "js/index.js",
+    "hash": "a4bdb69cec5d75e994236ef43f2f79f5"
+  }
+]
